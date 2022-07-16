@@ -100,7 +100,7 @@ const workExperiences = {
     viewExperiences: true, //Set it to true to show workExperiences Section
     experience: [ {
         role: "Azure iPaaS Developer",
-        company: "TATA Consultancy Services Ltd.",
+        company: "TATA Consultancy Services Limited",
         companylogo: require("./assets/images/tcs_logo.png"),
         date: "September 2020 - Present",
         desc: "Working as an Azure iPaaS developer and mainly involved with the development of Logic Apps, Service Bus, Function Apps, APIM and Log Analytics KQL. Skilled in XSLT, Biztalk BTM and Liquid Mapping.",
