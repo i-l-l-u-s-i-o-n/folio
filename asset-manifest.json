@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.74511eb4.chunk.css",
+    "main.js": "/portfolio/static/js/main.eda9b511.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.eda9b511.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.2eb64b40.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.2eb64b40.js.map",
+    "static/js/2.2e8d7d58.chunk.js": "/portfolio/static/js/2.2e8d7d58.chunk.js",
+    "static/js/2.2e8d7d58.chunk.js.map": "/portfolio/static/js/2.2e8d7d58.chunk.js.map",
+    "static/css/3.c7b31c95.chunk.css": "/portfolio/static/css/3.c7b31c95.chunk.css",
+    "static/js/3.d03153bc.chunk.js": "/portfolio/static/js/3.d03153bc.chunk.js",
+    "static/js/3.d03153bc.chunk.js.map": "/portfolio/static/js/3.d03153bc.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.ec54e15556ccf9a243f9b3bebc747104.js": "/portfolio/precache-manifest.ec54e15556ccf9a243f9b3bebc747104.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/3.c7b31c95.chunk.css.map": "/portfolio/static/css/3.c7b31c95.chunk.css.map",
+    "static/css/main.74511eb4.chunk.css.map": "/portfolio/static/css/main.74511eb4.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.webp": "/portfolio/static/media/contactMail.68e84138.webp",
+    "static/media/deeplearning.png": "/portfolio/static/media/deeplearning.7d75af5f.png",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/googleAssistantLogo.webp": "/portfolio/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/logo.svg": "/portfolio/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/stanford.png": "/portfolio/static/media/stanford.985ab49c.png",
+    "static/media/TalkCard.css": "/portfolio/static/media/talksCardBack.0288c5ec.svg",
+    "static/media/tcs_logo.png": "/portfolio/static/media/tcs_logo.cde5f348.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eb64b40.js",
+    "static/js/2.2e8d7d58.chunk.js",
+    "static/css/main.74511eb4.chunk.css",
+    "static/js/main.eda9b511.chunk.js"
+  ]
+}
