@@ -1,9 +1,8 @@
 {
-
     "name": "i-l-l-u-s-i-o-n.github.io",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://i-l-l-u-s-i-o-n.github.io/portfolio",
+    "homepage": "https://i-l-l-u-s-i-o-n.github.io/folio",
     "dependencies": {
         "@apollo/react-hooks": "^3.1.4",
         "apollo-boost": "^0.4.4",
